@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 
 
 
-    //label->setText (temp);
+
     w.show();
 
     return a.exec();
