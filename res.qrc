@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hantek6022be-firmware.hex</file>
+    </qresource>
+</RCC>
